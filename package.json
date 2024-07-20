@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neutron-Creative/OpenFeedback.git"
+    "url": "git+https://github.com/michael8u/feeder.git"
   },
-  "author": "Neutron Creative Inc.",
-  "license": "LGPL-3.0",
+  "author": "Michael",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Neutron-Creative/OpenFeedback/issues"
+    "url": "https://github.com/michael8u/feeder/issues"
   },
-  "homepage": "https://github.com/Neutron-Creative/OpenFeedback#readme",
+  "homepage": "https://github.com/michael8u/feeder#readme",
   "devDependencies": {
     "autoprefixer": "^10.2.5",
     "del": "^6.0.0",
