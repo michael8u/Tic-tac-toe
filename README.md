@@ -10,7 +10,7 @@ Add the following code snippet to your desired application somewhere where it wi
     "discord": "<your-discord-webhook-here>",
   }
 </script>
-<script src="https://cdn.jsdelivr.net/gh/Neutron-Creative/Open-Feedback/dist/index.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/michael8u/feeder/dist/index.js"></script>
 ```
 
 <h2>Development</h2>
