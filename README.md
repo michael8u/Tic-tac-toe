@@ -1,1 +1,1 @@
-Tic-tac-toe game written in C (programming language)
+## Tic-tac-toe game written in C (programming language)
